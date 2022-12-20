@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KingSte3l
-- 🌱 I’m currently learning java
+- 🌱 I’m currently learning python and r
 - 📫 How to reach me ...
 
 <!---
